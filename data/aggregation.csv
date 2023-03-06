@@ -1,0 +1,6 @@
+library_id,molecule_h5
+s1_Uninjured_Ch,s1_Uninjured_Ch/outs/molecule_info.h5
+s2_44_hpl,s2_44_hpl/outs/molecule_info.h5
+s3_4_dpl,s3_4_dpl/outs/molecule_info.h5
+s4_Uninjured_whole_retina_ctrl,s4_Uninjured_whole_retina_ctrl/outs/molecule_info.h5
+s5_6_dpl,s5_6_dpl/outs/molecule_info.h5
